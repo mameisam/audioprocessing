@@ -1,4 +1,6 @@
 /**
+  * MM: I modified this sketch to accept live AudioInput instead of file input.
+  *
   * This sketch demonstrates how to use the AudioBuffer objects of an AudioPlayer 
   * to draw the waveform and level of the sound as it is playing. These same 
   * AudioBuffer objects are available on AudioInput, AudioOuput, and AudioSample,
